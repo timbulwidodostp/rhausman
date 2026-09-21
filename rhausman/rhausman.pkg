@@ -1,0 +1,4 @@
+D 'rhausman': Robust Hausman Specification Test Use rhausman With STATA 19
+D
+F rhausman.ado
+F rhausman.sthlp

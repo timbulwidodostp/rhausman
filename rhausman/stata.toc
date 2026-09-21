@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p rhausman Robust Hausman Specification Test Use rhausman With STATA 19
